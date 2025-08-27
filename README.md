@@ -27,6 +27,8 @@ matplotlib (for visualization)
 Dataset
 The model is trained on the Galaxy Zoo DESI dataset, which is publicly available through the DESI Legacy Imaging Surveys. You can download the dataset from the official Galaxy Zoo website. (https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)
 
+Code is available in Galaxy_Morphology_main.ipynb.zip
+
 Results
 Precision: 0.95
 Recall: 1.00
