@@ -49,7 +49,6 @@ Accuracy: 96%
 
 False Positives: Reduced from 70 (Random Forest) to 23.
 
-Confusion matrix and further evaluation details are available in the evaluation_results folder.
 
 Model Architecture
 
