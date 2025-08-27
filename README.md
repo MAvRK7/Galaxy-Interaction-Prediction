@@ -1,6 +1,7 @@
 # Explainable Galaxy Interaction Prediction with Novel Hybrid Attention Mechanisms
 
 This repository implements a novel attentive neural ensemble model for predicting galaxy interactions using the Galaxy Zoo DESI dataset from the DESI Legacy Imaging Surveys. The model integrates three advanced architectures—Attention-Guided Explainable Capsules (AG-XCaps), Hybrid Self-Attention Neural Network (H-SNN), and ResNet with GRU layers—to provide highly accurate and interpretable predictions.
+
 Key Features
 
 Attention Mechanisms: Used to capture complex morphological features of galaxies.
