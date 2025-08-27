@@ -31,10 +31,15 @@ Code is available in Galaxy_Morphology_main.ipynb.zip
 
 Results
 Precision: 0.95
+
 Recall: 1.00
+
 F1-Score: 0.97
+
 Accuracy: 96%
+
 False Positives: Reduced from 70 (Random Forest) to 23.
+
 Confusion matrix and further evaluation details are available in the evaluation_results folder.
 
 Model Architecture
