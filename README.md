@@ -45,4 +45,11 @@ ResNet with GRU layers
 These architectures work together to capture complex galaxy morphology and enhance prediction accuracy.
 
 Contributing
+
 Feel free to open issues or submit pull requests to contribute to the project.
+
+Acknowledgments
+
+Galaxy Zoo
+DESI Legacy Imaging Surveys
+LIME for explainable AI
