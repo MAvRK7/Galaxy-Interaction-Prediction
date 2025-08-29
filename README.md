@@ -66,6 +66,6 @@ Feel free to open issues or submit pull requests to contribute to the project.
 
 Acknowledgments
 
-Galaxy Zoo
-DESI Legacy Imaging Surveys
+Galaxy Zoo,
+DESI Legacy Imaging Surveys and
 LIME for explainable AI
