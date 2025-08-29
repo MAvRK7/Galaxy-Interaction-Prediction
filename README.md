@@ -2,7 +2,7 @@
 
 This repository implements a novel attentive neural ensemble model for predicting galaxy interactions using the Galaxy Zoo DESI dataset from the DESI Legacy Imaging Surveys. The model integrates three advanced architectures—Attention-Guided Explainable Capsules (AG-XCaps), Hybrid Self-Attention Neural Network (H-SNN), and ResNet with GRU layers—to provide highly accurate and interpretable predictions.
 
-Key Features:
+*Key Features:*
 
 * Attention Mechanisms: Used to capture complex morphological features of galaxies.
 
@@ -16,14 +16,14 @@ Key Features:
 
 * Scalable Inference: Suitable for future large-scale surveys like Euclid and LSST.
 
-Installation:
+*Installation:*
 
 Prerequisites are
 Python 3.x,
 PyTorch,
 TensorFlow 
 
-Required libraries:
+*Required libraries:*
 
 numpy,
 pandas,
@@ -31,13 +31,13 @@ scikit-learn,
 LIME,
 matplotlib (for visualization)
 
-Dataset:
+*Dataset:*
 
 The model is trained on the Galaxy Zoo DESI dataset, which is publicly available through the DESI Legacy Imaging Surveys. You can download the dataset from the official Galaxy Zoo website. (https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)
 
 Code is available in Galaxy_Morphology_main.ipynb.zip
 
-Results:
+*Results:*
 
 - Precision: 0.95
 
@@ -50,7 +50,7 @@ Results:
 - False Positives: Reduced from 70 (Random Forest) to 23.
 
 
-Model Architecture
+*Model Architecture*
 
 The ensemble model combines the following architectures:
 
@@ -60,7 +60,7 @@ The ensemble model combines the following architectures:
 
 These architectures work together to capture complex galaxy morphology and enhance prediction accuracy.
 
-Contributing
+*Contributing*
 
 Feel free to open issues or submit pull requests to contribute to the project.
 
