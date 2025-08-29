@@ -39,24 +39,24 @@ Code is available in Galaxy_Morphology_main.ipynb.zip
 
 Results:
 
-Precision: 0.95
+- Precision: 0.95
 
-Recall: 1.00
+- Recall: 1.00
 
-F1-Score: 0.97
+- F1-Score: 0.97
 
-Accuracy: 96%
+- Accuracy: 96%
 
-False Positives: Reduced from 70 (Random Forest) to 23.
+- False Positives: Reduced from 70 (Random Forest) to 23.
 
 
 Model Architecture
 
 The ensemble model combines the following architectures:
 
-Attention-Guided Explainable Capsules (AG-XCaps),
-Hybrid Self-Attention Neural Network (H-SNN),
-ResNet with GRU layers.
+* Attention-Guided Explainable Capsules (AG-XCaps),
+* Hybrid Self-Attention Neural Network (H-SNN),
+* ResNet with GRU layers.
 
 These architectures work together to capture complex galaxy morphology and enhance prediction accuracy.
 
