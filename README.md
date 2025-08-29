@@ -4,17 +4,17 @@ This repository implements a novel attentive neural ensemble model for predictin
 
 Key Features:
 
-Attention Mechanisms: Used to capture complex morphological features of galaxies.
+* Attention Mechanisms: Used to capture complex morphological features of galaxies.
 
-Explainability: Utilizes Local Interpretable Model-agnostic Explanations (LIME) to ensure transparency in predictions.
+* Explainability: Utilizes Local Interpretable Model-agnostic Explanations (LIME) to ensure transparency in predictions.
 
-High Accuracy: Achieved 96% accuracy, 0.95 precision, 1.00 recall, and 0.97 F1-score in binary classification of galaxy interactions.
+* High Accuracy: Achieved 96% accuracy, 0.95 precision, 1.00 recall, and 0.97 F1-score in binary classification of galaxy interactions.
 
-Performance: Outperforms a Random Forest baseline, significantly reducing false positives while maintaining robust detection of interacting galaxies.
+* Performance: Outperforms a Random Forest baseline, significantly reducing false positives while maintaining robust detection of interacting galaxies.
 
-Lightweight: Model size of only 0.45 MB, making it efficient for large-scale surveys.
+* Lightweight: Model size of only 0.45 MB, making it efficient for large-scale surveys.
 
-Scalable Inference: Suitable for future large-scale surveys like Euclid and LSST.
+* Scalable Inference: Suitable for future large-scale surveys like Euclid and LSST.
 
 Installation:
 
