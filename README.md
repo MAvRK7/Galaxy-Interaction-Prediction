@@ -127,53 +127,23 @@ LIME for explainable AI
 
 - 1️⃣ Attention‑Guided Explainable Capsules (AG‑XCaps)
 
-[Input Galaxy Image]
-        │
-   Conv Layers
-        │
- Attention Gates ──► Feature Maps
-        │
- Capsule Layers (Primary + Digit Capsules)
-        │
-   LIME Overlay (for interpretability)
-        │
-   Interaction Prediction
+<img width="338" height="504" alt="image" src="https://github.com/user-attachments/assets/6f68eec1-8380-4c55-9353-3f6f9ff7800e" />
+
 
 - 2️⃣ Hybrid Self‑Attention Neural Network (H‑SNN)
 
-  [Input Galaxy Image]
-        │
-   CNN Feature Extractor
-        │
- Multi‑Head Self‑Attention
-        │
- Global Average Pooling
-        │
- Fully Connected Layers
-        │
-   Interaction Prediction
+  <img width="338" height="504" alt="image" src="https://github.com/user-attachments/assets/9740609a-513a-4097-a977-435dec0e1f7b" />
+
 
 -3️⃣ ResNet + GRU
 
-[Input Multi‑Band / Multi‑View Data]
-        │
-   ResNet Backbone
-        │
- Sequence of Feature Vectors
-        │
-   GRU Layers (temporal/spatial sequence modelling)
-        │
- Fully Connected Layers
-        │
-   Interaction Prediction
+<img width="338" height="504" alt="image" src="https://github.com/user-attachments/assets/7e311038-5cc0-4ddf-a0ae-11c7fbeea7f7" />
+
 
 - 4️⃣ Ensemble Integration
 
-AG‑XCaps Output ─┐
-                 │
-H‑SNN Output ────┼──► Soft Voting / Weighted Averaging ─► Final Prediction
-                 │
-ResNet+GRU Output┘
+<img width="796" height="379" alt="image" src="https://github.com/user-attachments/assets/1b5a1800-874f-402a-a891-d3f8913db7c8" />
+
 
 ---
 
